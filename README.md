@@ -22,7 +22,7 @@ Before you begin, you need to install the following tools:
 
 ```
 git clone https://github.com/Ifechukwudaniel/Dinamiko.git
-cd Ifechukwudaniel
+cd Dinamiko
 yarn install
 ```
 
